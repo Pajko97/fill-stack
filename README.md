@@ -3,9 +3,7 @@
   <img src="https://cdn.discordapp.com/attachments/1050547427993714741/1116301219758092359/Group_331.png" alt="Fill Stack Logo">
 </div>
 
-Get PC configuration recommendation based on your budget and other preferences.
-
-
+Tinder for popular multiplayer games. CS:GO, Valorant, PUBG, Dota
 ## Table of Contents
 
 - [Introduction](#introduction)
