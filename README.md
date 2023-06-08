@@ -24,9 +24,9 @@ usecase.
 
 [List the key features of the project.]
 
-- Generate PC Build for Gaming
-- Generate PC Build for work
-- Compare components and builds
+- Find a player to play with
+- Find a team
+- Interact with community
 
 ## Technologies
 
