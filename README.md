@@ -1,5 +1,5 @@
 # Fill Stack
-<div style="display:flex; align-items:center; justify-content:center;">
+<div style="display:flex; flex-direction: column; align-items:center; justify-content:center;">
   <img src="https://cdn.discordapp.com/attachments/1050547427993714741/1116301219758092359/Group_331.png" alt="Fill Stack Logo">
   Tinder for popular multiplayer games. CS:GO, Valorant, PUBG, Dota
 </div>
